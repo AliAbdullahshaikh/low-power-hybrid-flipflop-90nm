@@ -1,0 +1,38 @@
+# Cadence Virtuoso project files
+*.oa
+*.cdslck
+*.cdsinit
+cds.lib
+*.psf
+*.raw
+
+# PDK / model / technology files — DO NOT COMMIT (NDA)
+*.scs
+*.lib
+*.il
+*.tf
+*.map
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.xdv
+*.nav
+*.snm
+*.vrb
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*~
